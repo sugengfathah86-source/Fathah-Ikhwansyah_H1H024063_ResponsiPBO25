@@ -56,7 +56,6 @@ animation: spin 1s linear infinite;
 </div>
 </body>
 </html>
-```php
 <?php
 require_once __DIR__ . '/../src/Golbat.php';
 $golbat = new Golbat();
