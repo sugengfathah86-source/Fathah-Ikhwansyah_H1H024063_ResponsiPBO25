@@ -2,6 +2,7 @@ Nama : Fathah Ikhwansyah
 Nim : H1H024063
 Shift awal : D
 Shift Akhir : D
+
 Deskripsi Singkat Aplikasi
 
 PokéCare adalah aplikasi berbasis PHP Native tanpa framework yang mensimulasikan latihan Pokémon.
@@ -25,7 +26,7 @@ Halaman riwayat latihan untuk melihat sejarah peningkatan Golbat.
 
 Tampilan halaman menggunakan HTML + CSS buatan sendiri (tanpa framework).
 
-🏗️ Penjelasan Singkat Kode
+Penjelasan Singkat Kode
 1. index.php
 
 Menampilkan data awal Golbat, gambar, tombol mulai latihan, dan navigasi ke riwayat.
