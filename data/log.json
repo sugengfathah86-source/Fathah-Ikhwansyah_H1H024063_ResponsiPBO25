@@ -1,0 +1,192 @@
+[
+    {
+        "pokemon": "Golbat",
+        "type": "attack",
+        "intensity": 999,
+        "before": {
+            "level": 12,
+            "hp": 60
+        },
+        "after": {
+            "level": 78,
+            "hp": 226
+        },
+        "effect": {
+            "levelGain": 66,
+            "hpGain": 166
+        },
+        "special": "Toxic Wing: Golbat mengibaskan sayap beracun: memberi damage kecil dan efek racun (simulasi).",
+        "time": "2025-11-29 02:09:24"
+    },
+    {
+        "pokemon": "Golbat",
+        "type": "attack",
+        "intensity": 30,
+        "before": {
+            "level": 12,
+            "hp": 60
+        },
+        "after": {
+            "level": 14,
+            "hp": 65
+        },
+        "effect": {
+            "levelGain": 2,
+            "hpGain": 5
+        },
+        "special": "Toxic Wing: Golbat mengibaskan sayap beracun: memberi damage kecil dan efek racun (simulasi).",
+        "time": "2025-11-29 02:09:13"
+    },
+    {
+        "pokemon": "Golbat",
+        "type": "attack",
+        "intensity": 30,
+        "before": {
+            "level": 12,
+            "hp": 60
+        },
+        "after": {
+            "level": 14,
+            "hp": 65
+        },
+        "effect": {
+            "levelGain": 2,
+            "hpGain": 5
+        },
+        "special": "Toxic Wing: Golbat mengibaskan sayap beracun: memberi damage kecil dan efek racun (simulasi).",
+        "time": "2025-11-29 02:09:12"
+    },
+    {
+        "pokemon": "Golbat",
+        "type": "attack",
+        "intensity": 999,
+        "before": {
+            "level": 12,
+            "hp": 60
+        },
+        "after": {
+            "level": 78,
+            "hp": 226
+        },
+        "effect": {
+            "levelGain": 66,
+            "hpGain": 166
+        },
+        "special": "Toxic Wing: Golbat mengibaskan sayap beracun: memberi damage kecil dan efek racun (simulasi).",
+        "time": "2025-11-29 02:09:04"
+    },
+    {
+        "pokemon": "Golbat",
+        "type": "attack",
+        "intensity": 30,
+        "before": {
+            "level": 12,
+            "hp": 60
+        },
+        "after": {
+            "level": 14,
+            "hp": 65
+        },
+        "effect": {
+            "levelGain": 2,
+            "hpGain": 5
+        },
+        "special": "Toxic Wing: Golbat mengibaskan sayap beracun: memberi damage kecil dan efek racun (simulasi).",
+        "time": "2025-11-29 02:08:50"
+    },
+    {
+        "pokemon": "Golbat",
+        "type": "attack",
+        "intensity": 30,
+        "before": {
+            "level": 12,
+            "hp": 60
+        },
+        "after": {
+            "level": 14,
+            "hp": 65
+        },
+        "effect": {
+            "levelGain": 2,
+            "hpGain": 5
+        },
+        "special": "Toxic Wing: Golbat mengibaskan sayap beracun: memberi damage kecil dan efek racun (simulasi).",
+        "time": "2025-11-29 02:01:53"
+    },
+    {
+        "pokemon": "Golbat",
+        "type": "attack",
+        "intensity": 100,
+        "before": {
+            "level": 12,
+            "hp": 60
+        },
+        "after": {
+            "level": 18,
+            "hp": 76
+        },
+        "effect": {
+            "levelGain": 6,
+            "hpGain": 16
+        },
+        "special": "Toxic Wing: Golbat mengibaskan sayap beracun: memberi damage kecil dan efek racun (simulasi).",
+        "time": "2025-11-29 01:07:22"
+    },
+    {
+        "pokemon": "Golbat",
+        "type": "defense",
+        "intensity": 90,
+        "before": {
+            "level": 12,
+            "hp": 60
+        },
+        "after": {
+            "level": 17,
+            "hp": 78
+        },
+        "effect": {
+            "levelGain": 5,
+            "hpGain": 18
+        },
+        "special": "Toxic Wing: Golbat mengibaskan sayap beracun: memberi damage kecil dan efek racun (simulasi).",
+        "time": "2025-11-29 01:06:46"
+    },
+    {
+        "pokemon": "Golbat",
+        "type": "attack",
+        "intensity": 79,
+        "before": {
+            "level": 12,
+            "hp": 60
+        },
+        "after": {
+            "level": 17,
+            "hp": 73
+        },
+        "effect": {
+            "levelGain": 5,
+            "hpGain": 13
+        },
+        "special": "Toxic Wing: Golbat mengibaskan sayap beracun: memberi damage kecil dan efek racun (simulasi).",
+        "time": "2025-11-29 01:00:16"
+    },
+    {
+        "pokemon": "Golbat",
+        "type": "attack",
+        "intensity": 30,
+        "before": {
+            "level": 12,
+            "hp": 60
+        },
+        "after": {
+            "level": 14,
+            "hp": 65
+        },
+        "effect": {
+            "levelGain": 2,
+            "hpGain": 5
+        },
+        "special": "Toxic Wing: Golbat mengibaskan sayap beracun: memberi damage kecil dan efek racun (simulasi).",
+        "time": "2025-11-29 00:59:58"
+    }
+]
