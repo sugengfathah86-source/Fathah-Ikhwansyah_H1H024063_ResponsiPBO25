@@ -9,7 +9,6 @@ $golbat = new Golbat();
 <title>PokéCare - Golbat</title>
 <link rel="stylesheet" href="styles.css">
 <style>
-/* Loading Animation */
 #loader {
 position: fixed;
 top: 0; left: 0;
