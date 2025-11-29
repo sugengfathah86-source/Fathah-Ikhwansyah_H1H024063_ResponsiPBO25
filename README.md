@@ -54,3 +54,4 @@ Tempat menyimpan riwayat latihan.
 7. styles.css
 
 File CSS buatan sendiri untuk mempercantik tampilan.
+gif:
